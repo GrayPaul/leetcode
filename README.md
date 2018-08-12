@@ -1,1 +1,1 @@
-"# leetcode" 
+用python完成leetcode
